@@ -1,0 +1,3 @@
+SendIP = IP address where Receiver is running
+SendPort = Port where receiver is listening on
+SleepTime = Time in ms on how long to wait before re-sending
